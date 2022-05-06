@@ -6,3 +6,5 @@
 
 **Portfolio Link:** <br>
 [https://yoanacodes.github.io](https://yoanacodes.github.io)
+
+![](yoanacodes.png)
